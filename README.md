@@ -22,9 +22,7 @@ The primary objective is to help financial institutions make data-driven lending
 
 ---
 
-## 📂 Repository Structure
-
-Credit-Risk-Analytics-Platform/
+## 📂 Credit-Risk-Analytics-Platform/
 │
 ├── data/
 │   ├── raw/
@@ -39,7 +37,6 @@ Credit-Risk-Analytics-Platform/
 ├── docs/
 ├── README.md
 └── LICENSE
-
 ---
 
 ## 🚀 Project Roadmap
